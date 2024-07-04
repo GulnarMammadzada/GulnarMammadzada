@@ -6,6 +6,14 @@
 - 😄 Pronouns: she/her
 
 
+Skills:
+-Languages: Java, HTML, CSS
+- Tools: IntelliJ IDEA, GitHub
+- Frameworks: Spring Boot (beginner)
+
+I'm always open to discussing new projects, collaborations, or job opportunities. Feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/gulnar-mammadzada-058825288/).
+
+
 <!---
 GulnarMammadzada/GulnarMammadzada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
