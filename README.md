@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java development, backend systems, and software engineering
 - 🌱 I’m currently learning Java, object-oriented programming, and basic frameworks like Spring Boot.
 - 💞️ I’m looking for Internship opportunities where I can apply my Java skills and learn from experienced developers.
-- 📫 How to reach me: gulnarmmmdzad08@gmail.com
+- 📫 How to reach me: gulnarmmmdzad05@gmail.com
 - 😄 Pronouns: she/her
 
 
