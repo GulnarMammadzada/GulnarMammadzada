@@ -7,8 +7,8 @@
 
 
 Skills:
--Languages: Java, HTML, CSS
-- Tools: IntelliJ IDEA, GitHub
+- Languages: Java, HTML, CSS
+- Tools: IntelliJ IDEA, Git, GitHub
 - Frameworks: Spring Boot (beginner)
 
 I'm always open to discussing new projects, collaborations, or job opportunities. Feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/gulnar-mammadzada-058825288/).
