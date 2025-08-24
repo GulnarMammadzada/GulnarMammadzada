@@ -19,9 +19,11 @@
 ### 📂 Projects
 - **Subscription Management Platform** – Microservice-based backend system for managing digital subscriptions.  
   *Technologies:* Java 17, Spring Boot, Spring Cloud Gateway, PostgreSQL, Redis, Docker, JWT authentication  
+  - [GitHub Repository](https://github.com/GulnarMammadzada/ApiGateway)
 
 - **Library Catalog App** – Full-stack web application to manage books, reading status, and personal notes.  
   *Technologies:* Spring Boot, Spring Data JPA, H2/PostgreSQL, Bootstrap, JavaScript  
+  - [GitHub Repository](https://github.com/GulnarMammadzada/LibraryCatalog)
 
 ---
 
