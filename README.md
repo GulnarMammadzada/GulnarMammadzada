@@ -21,7 +21,11 @@
   *Technologies:* Java 17, Spring Boot, Spring Cloud Gateway, PostgreSQL, Redis, Docker, JWT authentication  
   - [GitHub Repository](https://github.com/GulnarMammadzada/ApiGateway)
 
-- **Library Catalog App** – Full-stack web application to manage books, reading status, and personal notes.  
+- **Restaurant Management Platform** – Full-featured backend system for restaurant operations with microservices architecture.  
+  *Technologies:* Java 17, Spring Boot, Spring Cloud Gateway, PostgreSQL, Kafka, GraphQL, WebSocket, Docker, Eureka  
+  - [GitHub Repository](https://github.com/GulnarMammadzada/ApiGatewayApp.git)
+ 
+ - **Library Catalog App** – Full-stack web application to manage books, reading status, and personal notes.  
   *Technologies:* Spring Boot, Spring Data JPA, H2/PostgreSQL, Bootstrap, JavaScript  
   - [GitHub Repository](https://github.com/GulnarMammadzada/LibraryCatalog)
 
