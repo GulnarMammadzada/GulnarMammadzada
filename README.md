@@ -27,7 +27,7 @@
  
  - **Library Catalog App** – Full-stack web application to manage books, reading status, and personal notes.  
   *Technologies:* Spring Boot, Spring Data JPA, H2/PostgreSQL, Bootstrap, JavaScript  
-  - [GitHub Repository](https://github.com/GulnarMammadzada/LibraryCatalog)
+   - [GitHub Repository](https://github.com/GulnarMammadzada/LibraryCatalog)
 
 ---
 
